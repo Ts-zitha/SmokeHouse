@@ -733,9 +733,13 @@ ul.navbar-nav > li.active > a {
 }
 
 /*-- Logo --*/
+.logo{
+  
+  height: 100%;
+}
 .logo img {
-  width: auto;
-  height: 35px;
+  width: 130px;
+  height: 100%;
 }
 
 .header-two .logo img {
